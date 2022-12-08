@@ -1,0 +1,5 @@
+Serializador
+Modelo 
+Pasar el id del dato a actualizar
+Pasar el id del dato a eliminar
+control de excepciones

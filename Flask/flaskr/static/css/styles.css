@@ -1,0 +1,37 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+.table-center {
+    margin: 0 3%;
+}
+
+h1 { 
+    color: #ff4411; 
+    font-size: 48px; 
+    font-family: 'Signika', sans-serif; 
+    padding: 3% 2% 0; 
+}
+
+h3 { 
+    color: #ff4411; 
+    font-size: 35px; 
+    font-family: 'Signika', sans-serif; 
+    padding: 2% 2%; 
+}
+
+h4 {
+    font-size: 24px; 
+    font-family: 'Signika', sans-serif; 
+    padding: 2% 2% 0; 
+}
+
+p {
+    padding: 2% 2%;
+}
+
+.button_predict {
+    margin-top: 2%;
+}
