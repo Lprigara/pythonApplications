@@ -47,7 +47,7 @@ figura4 = px.scatter_3d(df,
 app = dash.Dash()
 app.layout = html.Div(children=[
     html.H1(children="Supervivencia en el accidente del Titanic.", 
-            style={'text-align': 'center', 'margin':'3% 0'}),
+            style={'text-align': 'center', 'margin':'3% 0'}), 
     dcc.Graph(figure=figura1),
     html.P("Sobrevive cerca de un tercio de los pasajeros.", 
            style={'padding-left': '5%', 'font-weight': 'bold'}),
